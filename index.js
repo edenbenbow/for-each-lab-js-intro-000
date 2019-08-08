@@ -10,7 +10,7 @@ function iterate(callback) {
   return(array)
 }
 
-function doToArray() {
+function doToArray(array, callback) {
 
 
 }
