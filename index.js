@@ -3,7 +3,3 @@ function iterativeLog(array) {
   console.log(`${index}: ${element}`);
 })
 }
-
-function iterate(callback) {
-  array.forEach(callback);
-}
